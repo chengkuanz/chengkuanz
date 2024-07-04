@@ -25,6 +25,11 @@ Ottawa, ON, (May 2022 - Present)
 - **Operating Systems**: Windows, Linux, MacOS
 
 ## Projects
+- **[Personal Portfolio](https://chengkuanz.github.io/)**   
+A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) template, customized and deployed on GitHub Pages. 
+- 
+- 
+
 
 
 
