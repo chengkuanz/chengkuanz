@@ -26,11 +26,23 @@ Ottawa, ON, (May 2022 - Present)
 
 ## Projects
 ### **[Personal Website](https://chengkuanz.github.io/)**    
-- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) template, customized and deployed on GitHub Pages.     
-### **[Simon Game](https://chengkuanz.github.io/simon-game/)**     
-- An interactive memory game that tests the player's ability to remember a sequence of colors.   
-- Created using C++, [SFML](https://www.sfml-dev.org/), and [TGUI](https://tgui.eu/) library.      
+- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on GitHub Pages.     
 
+### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
+- Developed a Simon Game in C++ utilizing [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
+- Implemented game mechanics where players must replicate increasingly complex color patterns to advance levels.
+- Designed an interactive user interface with color buttons and sound cues for an engaging gameplay experience.
+- Integrated random sequence generation and scoring system to track players' progress and performance.
+- Provided options to restart or quit the game based on user input accuracy and response time.   
+
+
+### **[Picross Game](https://github.com/chengkuanz/Picross)**
+- Developed a multiplayer Picross game in Java using the MVC architectural pattern.
+- Implemented real-time communication between server and clients with Java Sockets.
+- Designed an intuitive GUI using Swing for a responsive user experience.
+- Created a modular structure (Model-View-Controller) for scalable and maintainable code.
+- Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
+- Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
 
 
 
