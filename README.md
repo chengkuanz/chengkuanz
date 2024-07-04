@@ -19,7 +19,13 @@ Ottawa, ON, (May 2023 - Present)
 Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),   
 Ottawa, ON, (May 2022 - Present)
 
+## Technical Skills
+- **Programming Languages**: Java, C, C++, JavaScript, HTML, CSS, PHP, SQL, Swift, React
+- **Tools & Technologies**: Git, GitHub, Visual Studio, PhpStorm, Eclipse
+- **Operating Systems**: Windows, Linux, MacOS
+
 ## Projects
+
 
 
 
