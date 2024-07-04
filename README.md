@@ -24,9 +24,15 @@ Ottawa, ON, (May 2022 - Present)
 - **Tools & Technologies**: Git, GitHub, Visual Studio, PhpStorm, Eclipse
 - **Operating Systems**: Windows, Linux, MacOS
 
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
+- [Email](mailto:chengkuan.zhao@carleton.ca)
+- [GitHub](https://github.com/chengkuanz)
+- [Instagram](https://www.instagram.com/chengkuan_/)
+
 ## Projects
 ### **[Personal Website](https://chengkuanz.github.io/)**    
-- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on GitHub Pages.     
+- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).        
 
 ### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
 - Developed a Simon Game in C++ utilizing [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
@@ -48,11 +54,7 @@ Ottawa, ON, (May 2022 - Present)
 
 
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
-- [Email](mailto:chengkuan.zhao@carleton.ca)
-- [GitHub](https://github.com/chengkuanz)
-- [Instagram](https://www.instagram.com/chengkuan_/)
+
 
 
 
