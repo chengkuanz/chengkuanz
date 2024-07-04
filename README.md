@@ -25,10 +25,12 @@ Ottawa, ON, (May 2022 - Present)
 - **Operating Systems**: Windows, Linux, MacOS
 
 ## Projects
-- **[Personal Portfolio](https://chengkuanz.github.io/)**   
-A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) template, customized and deployed on GitHub Pages. 
-- 
-- 
+### **[Personal Website](https://chengkuanz.github.io/)**    
+- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) template, customized and deployed on GitHub Pages.     
+### **[Simon Game](https://chengkuanz.github.io/simon-game/)**     
+- An interactive memory game that tests the player's ability to remember a sequence of colors.   
+- Created using C++, [SFML](https://www.sfml-dev.org/), and [TGUI](https://tgui.eu/) library.      
+
 
 
 
@@ -38,4 +40,9 @@ A personal portfolio website that was built using [HTML5 UP](https://html5up.net
 - [LinkedIn](https://www.linkedin.com/in/chengkuan/)
 - [Email](mailto:chengkuan.zhao@carleton.ca)
 - [GitHub](https://github.com/chengkuanz)
-- [Instagram](https://www.instagram.chengkuan_)
+- [Instagram](https://www.instagram.com/chengkuan_/)
+
+
+
+
+
