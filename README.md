@@ -14,7 +14,7 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html),  
 Gatineau, QC, (September 2022 - December 2022)  
 Ottawa, ON, (May 2023 - Present)
-- **Peer Tutor**, Algonquin College,  
+- **Peer Tutor**, Algonquin College  
 Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),   
 Ottawa, ON, (May 2022 - Present)
 
