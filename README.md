@@ -45,12 +45,12 @@ Ottawa, ON, (May 2022 - Present)
 
 ### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
 
-- Developed a Simon Game in C++ utilizing [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
-- Implemented game mechanics where players must replicate increasingly complex color patterns to advance levels.
-- Designed an interactive user interface with color buttons and sound cues for an engaging gameplay experience.
-- Integrated random sequence generation and scoring system to track players' progress and performance.
-- Provided options to restart or quit the game based on user input accuracy and response time.   
-
+- Developed a interactive Simon Game in C++ using [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
+- Implemented game mechanics to generate and display random color sequences, enhancing gameplay difficulty with each level.
+- Designed a responsive GUI with TGUI for an engaging user experience.
+- Integrated unique sound effects with each color button to aid in memorization.
+- Programmed logic for real-time user input validation and feedback.
+- Enabled restart functionality and performance tracking to improve player engagement and retention.
 
 ### **[Picross Game](https://github.com/chengkuanz/Picross)**
 
@@ -60,6 +60,13 @@ Ottawa, ON, (May 2022 - Present)
 - Created a modular structure (Model-View-Controller) for scalable and maintainable code.
 - Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
+
+### **[Complier Design]()**
+
+- Developed a front-end of a compiler in C, consisting of a Reader, Scanner, and Parser, for a custom programming language.
+- Implemented a Reader module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
+- Created a Scanner module to tokenize input data, incorporating finite state machines, token attributes, and error handling for lexical analysis.
+- Designed a Parser module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.
 
 
 
