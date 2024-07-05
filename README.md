@@ -45,7 +45,7 @@ Ottawa, ON, (May 2022 - Present)
 
 ### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
 
-- Developed a interactive Simon Game in C++ using [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
+- Developed an interactive Simon Game in C++ using [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
 - Implemented game mechanics to generate and display random color sequences, enhancing gameplay difficulty with each level.
 - Designed a responsive GUI with TGUI for an engaging user experience.
 - Integrated unique sound effects with each color button to aid in memorization.
