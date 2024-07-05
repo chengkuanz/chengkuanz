@@ -61,6 +61,8 @@ Ottawa, ON, (May 2022 - Present)
 - Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
 
+
+
 ## Volunteer Experience
 
 - **Peer Mentor**, Algonquin College  
@@ -72,7 +74,7 @@ Ottawa, ON, (May 2022 - Present)
   May 2018 - August 2020
 
 - **Aftercare Volunteer**, [Reforest London](https://reforestlondon.ca/)    
-  July 2016 - August 2016
+  July 2016 - September 2016
 
 
 
