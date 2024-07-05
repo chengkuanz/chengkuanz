@@ -61,9 +61,9 @@ Ottawa, ON, (May 2022 - Present)
 - Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
 
-### **[Complier Design]()**
+### **[Complier Design](https://github.com/chengkuanz/complier-design)**
 
-- Developed a front-end of a compiler in C, consisting of a Reader, Scanner, and Parser, for a custom programming language.
+- Developed front-end stage of a compiler in C, consisting of a Reader, Scanner, and Parser, for a custom programming language.
 - Implemented a Reader module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
 - Created a Scanner module to tokenize input data, incorporating finite state machines, token attributes, and error handling for lexical analysis.
 - Designed a Parser module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.
