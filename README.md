@@ -35,18 +35,6 @@ Ottawa, ON, (May 2022 - Present)
 - [GitHub](https://github.com/chengkuanz)
 - [Instagram](https://www.instagram.com/chengkuan_/)
 
-## Volunteer Experience
-
-- **Peer Mentor**, Algonquin College  
-International Education Centre [(IEC)](https://www.algonquincollege.com/international/),  
-December 2021 - December 2023
-
-- **Classroom Notetaker**, Carleton University   
-Paul Menton Centre for Students with Disabilities [(PMC)](https://carleton.ca/pmc/)    
-May 2018 - August 2020
-
- - **Aftercare Volunteer**, [Reforest London](https://reforestlondon.ca/)    
-July 2016 - August 2016
 
 
 ## Projects
@@ -72,6 +60,19 @@ July 2016 - August 2016
 - Created a modular structure (Model-View-Controller) for scalable and maintainable code.
 - Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
+
+## Volunteer Experience
+
+- **Peer Mentor**, Algonquin College  
+  International Education Centre [(IEC)](https://www.algonquincollege.com/international/),  
+  December 2021 - December 2023
+
+- **Classroom Notetaker**, Carleton University   
+  Paul Menton Centre for Students with Disabilities [(PMC)](https://carleton.ca/pmc/)    
+  May 2018 - August 2020
+
+- **Aftercare Volunteer**, [Reforest London](https://reforestlondon.ca/)    
+  July 2016 - August 2016
 
 
 
