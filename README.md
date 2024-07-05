@@ -24,14 +24,12 @@ Ottawa, ON, (May 2022 - Present)
 
 ## Technical Skills
 
-- **Programming Languages**: Java, C, C++, Swift, React, Assembly, R, Linux Shell Scripting, PowerShell
-- **Tools & Technologies**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA
-- **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON
+- **Programming Languages**: Java, C, C++, Swift, Assembly, R, Linux Shell Scripting, PowerShell, C#
+- **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Momentics, QNX
+- **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js, Express.js
 - **Networking & Security**: TCP/IP, OSI Model, Subnetting, VLANs, Firewalls, Wireshark, Cisco Packet Tracer, client/server socket programming
 - **Simulation & Design Software**: MATLAB, ANSYS Workbench, CFX, LabVIEW, NI Multisim, SimScale, Simulink
-- **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track,
-  WordQ, Antidote, XKeys programming, TextAloud,
-  Microsoft 365 and Windows 10 built-in accessibility features,
+- **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track, WordQ, Antidote, XKeys programming, TextAloud, Microsoft 365 and Windows 10 built-in accessibility features,
 
 
 ## Contact
