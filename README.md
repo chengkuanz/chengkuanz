@@ -31,7 +31,7 @@ Ottawa, ON, (May 2022 - Present)
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/chengkuan/)
-- [Email](mailto:chengkuan.zhao@carleton.ca)
+- [Email](mailto:zhao0241@algonquinlive.com)
 - [GitHub](https://github.com/chengkuanz)
 - [Instagram](https://www.instagram.com/chengkuan_/)
 
