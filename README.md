@@ -2,11 +2,7 @@
 
 ## About me
 
-I am currently a student at Algonquin College in the Computer Engineering Technology program. 
-I am passionate about learning new technologies and programming languages. 
-I am always looking for new opportunities to learn and grow as a developer.
-If you have any questions or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
-
+I am currently a student at Algonquin College in the Computer Engineering Technology program. I am passionate about learning new technologies and programming languages and am always looking for opportunities to grow as a developer. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
 ## Education
 
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)
@@ -39,12 +35,28 @@ Ottawa, ON, (May 2022 - Present)
 - [GitHub](https://github.com/chengkuanz)
 - [Instagram](https://www.instagram.com/chengkuan_/)
 
+## Volunteer Experience
+
+- **Peer Mentor**, Algonquin College  
+International Education Centre [(IEC)](https://www.algonquincollege.com/international/),  
+December 2021 - December 2023
+
+- **Classroom Notetaker**, Carleton University   
+Paul Menton Centre for Students with Disabilities [(PMC)](https://carleton.ca/pmc/)    
+May 2018 - August 2020
+
+ - **Aftercare Volunteer**, [Reforest London](https://reforestlondon.ca/)    
+July 2016 - August 2016
+
+
 ## Projects
 
 ### **[Personal Website](https://chengkuanz.github.io/)**    
+
 - A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).        
 
 ### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
+
 - Developed a Simon Game in C++ utilizing [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
 - Implemented game mechanics where players must replicate increasingly complex color patterns to advance levels.
 - Designed an interactive user interface with color buttons and sound cues for an engaging gameplay experience.
@@ -53,6 +65,7 @@ Ottawa, ON, (May 2022 - Present)
 
 
 ### **[Picross Game](https://github.com/chengkuanz/Picross)**
+
 - Developed a multiplayer Picross game in Java using the MVC architectural pattern.
 - Implemented real-time communication between server and clients with Java Sockets.
 - Designed an intuitive GUI using Swing for a responsive user experience.
