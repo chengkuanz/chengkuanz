@@ -1,16 +1,19 @@
 ### Hi there 😃
 
 ## About me
+
 I am currently a student at Algonquin College in the Computer Engineering Technology program. 
 I am passionate about learning new technologies and programming languages. 
 I am always looking for new opportunities to learn and grow as a developer.
 If you have any questions or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
 
 ## Education
+
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)
 - Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
 
 ## Experience
+
 - **Accessibility & Adaptive Technology Student** , Shared Services Canada   
 Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html),  
 Gatineau, QC, (September 2022 - December 2022)  
@@ -20,17 +23,26 @@ Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),
 Ottawa, ON, (May 2022 - Present)
 
 ## Technical Skills
-- **Programming Languages**: Java, C, C++, JavaScript, HTML, CSS, PHP, SQL, Swift, React
-- **Tools & Technologies**: Git, GitHub, Visual Studio, PhpStorm, Eclipse
-- **Operating Systems**: Windows, Linux, MacOS
+
+- **Programming Languages**: Java, C, C++, Swift, React, Assembly, R, Linux Shell Scripting, PowerShell
+- **Tools & Technologies**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA
+- **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON
+- **Networking & Security**: TCP/IP, OSI Model, Subnetting, VLANs, Firewalls, Wireshark, Cisco Packet Tracer, client/server socket programming
+- **Simulation & Design Software**: MATLAB, ANSYS Workbench, CFX, LabVIEW, NI Multisim, SimScale, Simulink
+- **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track,
+  WordQ, Antidote, XKeys programming, TextAloud,
+  Microsoft 365 and Windows 10 built-in accessibility features,
+
 
 ## Contact
+
 - [LinkedIn](https://www.linkedin.com/in/chengkuan/)
 - [Email](mailto:chengkuan.zhao@carleton.ca)
 - [GitHub](https://github.com/chengkuanz)
 - [Instagram](https://www.instagram.com/chengkuan_/)
 
 ## Projects
+
 ### **[Personal Website](https://chengkuanz.github.io/)**    
 - A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).        
 
@@ -49,6 +61,7 @@ Ottawa, ON, (May 2022 - Present)
 - Created a modular structure (Model-View-Controller) for scalable and maintainable code.
 - Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
+
 
 
 
