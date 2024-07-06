@@ -21,10 +21,11 @@ Ottawa, ON, (May 2022 - Present)
 ## Technical Skills
 
 - **Programming Languages**: Java SE, C, C++, Swift, Assembly, R, Linux Shell Scripting, PowerShell, C#, Cobol, Jakarta EE
-- **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Momentics, QNX, Clion, NetBeans
+- **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Clion, NetBeans, QNX Neutrino, Momentics
 - **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js, Express.js
 - **Networking & Security**: TCP/IP, OSI Model, Subnetting, VLANs, Firewalls, Wireshark, Cisco Packet Tracer, client/server socket programming
-- **Simulation & Design Software**: MATLAB, Ansys Workbench,  Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, 
+- **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5,  
+
 - **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track, WordQ, Antidote, XKeys programming, TextAloud, Microsoft 365 and Windows 10 built-in accessibility features,
 
 
@@ -66,8 +67,38 @@ Ottawa, ON, (May 2022 - Present)
 - Developed front-end stage of a compiler in C, consisting of a Reader, Scanner, and Parser, for a custom programming language.
 - Implemented a Reader module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
 - Created a Scanner module to tokenize input data, incorporating finite state machines, token attributes, and error handling for lexical analysis.
-- Designed a Parser module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.
+- Designed a Parser module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.      
 
+
+### **High-Speed Reduction Helical Gear Box Design**
+
+- School Project, MECH 4003 Mechanical Systems Design, September 2020 – December 2020
+- Performed preliminary design of a double-helical gearbox used to drive a generator
+  (3600 RPM, 50 MW nominal power) using a gas turbine (8500 RPM). 
+- Created detailed CAD model for all components, including the pinion and gear, the
+  shafts each gear mounted on, and the casing. 
+- Performed comprehensive analysis for gears' fatigue life, critical speed and minimum
+  allowable diameter for shafts, the life of bearings, fasteners selection, sealing and assembling, lubrication circulation, and heat dissipation.
+
+### **Sterling Engine Design and Manufacture**
+- School Project, MECH 4705 CAD/CAM (Computer-Aided Design and Manufacturing), September 2020 – December 2020
+- Modelled, assembled, and generated toolpath for the sterling engine in Fusion360
+  based on the posted shop drawing. 
+- Calculated feeds, speeds and peak power based on the manufacturer's datasheet.
+- Designed soft jaws for safely clamping parts during the milling operation.
+- Discussed difference in dimensions from programmed tool path to the measured
+  dimensions, theoretical and provided cutting feeds and speeds in the report.
+
+### **Advanced Urban Air Mobility (UAM) VTOL Aircraft Design**
+- 4th Year Capstone Project, MAAE 4907A Advanced Aircraft Design, September 2020 – April 2021
+- Collaborated with a group of ten to design an aircraft capable of vertical takeoff and landing
+- Designed, modelled, and created engineering drawings for the landing gear assembly and the transmission
+  system using Fusion 360
+- Developed a Python program capable of automatically calculating key parameters of transmission
+- Performed FEA on the landing gear assembly using ANSYS Workbench and Explicit Dynamics to evaluate the
+  performance of the landing gear and ensure the landing gear meets related aviation standards
+- Developed technical reports on the landing gear design and relevant analysis
+- Delivered technical presentations on the details of the design to over ten professional audiences
 
 
 ## Volunteer Experience
