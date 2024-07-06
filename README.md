@@ -24,7 +24,7 @@ Ottawa, ON, (May 2022 - Present)
 - **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Clion, NetBeans, QNX Neutrino, Momentics
 - **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js, Express.js
 - **Networking & Security**: TCP/IP, OSI Model, Subnetting, VLANs, Firewalls, Wireshark, Cisco Packet Tracer, client/server socket programming
-- **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5,  
+- **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5, Fritzing 
 
 - **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track, WordQ, Antidote, XKeys programming, TextAloud, Microsoft 365 and Windows 10 built-in accessibility features,
 
