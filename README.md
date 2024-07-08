@@ -83,12 +83,11 @@ Ottawa, ON, (May 2022 - Present)
 
 ### **Sterling Engine Design and Manufacture**
 - School Project, MECH 4705 CAD/CAM (Computer-Aided Design and Manufacturing), September 2020 – December 2020
-- Modelled, assembled, and generated toolpath for the sterling engine in Fusion360
-  based on the posted shop drawing. 
-- Calculated feeds, speeds and peak power based on the manufacturer's datasheet.
+- Modeled, assembled, and generated toolpaths for the Stirling engine in Fusion360 based on provided shop drawings.
+- Calculated feeds, speeds, and peak power using the manufacturer's datasheet.
 - Designed soft jaws for safely clamping parts during the milling operation.
-- Discussed difference in dimensions from programmed tool path to the measured
-  dimensions, theoretical and provided cutting feeds and speeds in the report.
+- Analyzed and reported differences in dimensions between the programmed tool paths and measured dimensions, including theoretical and provided cutting feeds and speeds.
+
 
 ### **Advanced Urban Air Mobility (UAM) VTOL Aircraft Design**
 - 4th Year Capstone Project, MAAE 4907A Advanced Aircraft Design, September 2020 – April 2021
