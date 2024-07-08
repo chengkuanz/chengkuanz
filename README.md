@@ -77,8 +77,9 @@ Ottawa, ON, (May 2022 - Present)
   (3600 RPM, 50 MW nominal power) using a gas turbine (8500 RPM). 
 - Created detailed CAD model for all components, including the pinion and gear, the
   shafts each gear mounted on, and the casing. 
-- Performed comprehensive analysis for gears' fatigue life, critical speed and minimum
-  allowable diameter for shafts, the life of bearings, fasteners selection, sealing and assembling, lubrication circulation, and heat dissipation.
+- Conducted comprehensive analysis of the gears' fatigue life, critical speed, and minimum allowable diameter for shafts.
+- Evaluated the life of bearings and selected appropriate fasteners, sealing methods, and assembly techniques.
+- Designed the lubrication circulation system and analyzed heat dissipation requirements.
 
 ### **Sterling Engine Design and Manufacture**
 - School Project, MECH 4705 CAD/CAM (Computer-Aided Design and Manufacturing), September 2020 – December 2020
