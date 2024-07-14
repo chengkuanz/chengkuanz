@@ -110,7 +110,7 @@ Ottawa, ON, (May 2022 - Present)
   May 2018 - August 2020
 
 - **Aftercare Volunteer**, [Reforest London](https://reforestlondon.ca/)    
-  July 2016 - September 2016
+  July 2016 - September 2016   
 
 
 
