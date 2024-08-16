@@ -6,6 +6,8 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 ## Education
 
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)
+
+
 - Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
 
 ## Experience
