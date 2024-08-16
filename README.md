@@ -10,7 +10,7 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 
 ## Experience
 
-- **Accessibility & Adaptive Technology Student** , Shared Services Canada   
+- **Accessibility & Adaptive Technology Student** , Shared Services Canada, Government of Canada    
 Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html),  
 Gatineau, QC, (September 2022 - December 2022)  
 Ottawa, ON, (May 2023 - Present)
