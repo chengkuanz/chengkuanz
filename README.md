@@ -23,6 +23,14 @@ Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),
 Ottawa, ON, (May 2022 - Present)
 
 
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
+- [Email](mailto:zhao0241@algonquinlive.com)
+- [GitHub](https://github.com/chengkuanz)
+- [Instagram](https://www.instagram.com/chengkuan_/)
+
+
 ## Projects
 
 ### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)**
@@ -125,14 +133,6 @@ Ottawa, ON, (May 2022 - Present)
 - **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5, Fritzing
 
 - **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track, WordQ, Antidote, XKeys programming, TextAloud, Microsoft 365 and Windows 10 built-in accessibility features,
-
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
-- [Email](mailto:zhao0241@algonquinlive.com)
-- [GitHub](https://github.com/chengkuanz)
-- [Instagram](https://www.instagram.com/chengkuan_/)
 
 
 ## Volunteer Experience
