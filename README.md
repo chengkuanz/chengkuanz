@@ -25,7 +25,7 @@ Ottawa, ON, (May 2022 - Present)
 
 ## Projects
 
-### **[Building Entry Controller System - QNX](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)**
+### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)**
 
 - Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS for the CST8244 - Real-Time Programming course.
 - Designed and maintained a state machine a system to manage the entry and exit of individuals through a controlled two-door system using card scanners, a scale to weigh individuals, and manual guard-operated locks.
