@@ -49,7 +49,7 @@ Ottawa, ON, (May 2022 - Present)
 - Implemented CRUD operations for fans, clubs, and news, with data integrity checks to maintain consistent relationships.
 - Integrated a user-friendly interface for managing fan subscriptions and sport club data with capabilities to create, view, edit, and delete clubs, with proper handling of associated news and subscriptions.
 - Developed a news management page for users to upload, view, and delete image items related to sport clubs.
-- Deployed the application to Azure Web App, and use Azure Blob Storage for file storage and Azure SQL Database for data storage.
+- Deployed the application to Azure Web App, and use Azure Blob Storage for managing and storing media files, and Azure SQL Database for data storage.
 
 
 ### **[Personal Website](https://chengkuanz.github.io/)**    
