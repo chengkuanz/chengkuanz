@@ -43,8 +43,12 @@ Ottawa, ON, (May 2022 - Present)
 
 
 ## Projects
+### **[Personal Website](https://chengkuanz.github.io/)**
+
+- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).
 
 ### **[Fan Club Web Application](https://github.com/chengkuanz/cst8359-Assignment2)**
+
 - Developed and deployed a Fan Club Web Application using ASP.NET Core MVC, Entity Framework, and Azure services.
 - Implemented CRUD operations for fans, clubs, and news, with data integrity checks to maintain consistent relationships.
 - Integrated a user-friendly interface for managing fan subscriptions and sport club data with capabilities to create, view, edit, and delete clubs, with proper handling of associated news and subscriptions.
@@ -52,9 +56,6 @@ Ottawa, ON, (May 2022 - Present)
 - Deployed the application to Azure Web App, and use Azure Blob Storage for managing and storing media files, and Azure SQL Database for data storage.
 
 
-### **[Personal Website](https://chengkuanz.github.io/)**    
-
-- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).        
 
 ### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
 
