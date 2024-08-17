@@ -27,6 +27,7 @@ Ottawa, ON, (May 2022 - Present)
 
 ### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)**
 
+- School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
 - Developed a Metronome Resource Manager for QNX Neutrino RTOS, simulating rhythmic patterns using C.
 - Implemented multi-threading, pulse messaging, and timers to ensure accurate beat timing and responsiveness in the metronome’s operation.
 - Designed and managed a command-line interface for controlling the metronome via QNX resource manager, enabling start, stop, pause, and configuration operations.
@@ -35,21 +36,22 @@ Ottawa, ON, (May 2022 - Present)
 
 ### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)**
 
-- Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS for the CST8244 - Real-Time Programming course.
-- Designed and maintained a state machine a system to manage the entry and exit of individuals through a controlled two-door system using card scanners, a scale to weigh individuals, and manual guard-operated locks.
-- Implemented semaphores, message passing, and shared memory to synchronize tasks and communicate between processes, ensuring real-time responsiveness and data integrity.
+- School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
+- Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS, implementing concurrent processing and process synchronization with semaphores and message passing.
+- Designed and implemented a state machine to manage controlled access through dual doors, integrating card scanners, a weight scale, and manual guard-operated locks.
+- Created separate programs for input handling, state control, and display updates. 
+- Implemented semaphores, and QNX-specific IPC mechanisms including MsgSend, MsgReceive, and MsgReply (message passing) along with shared memory and channels synchronize tasks and communicate between processes, ensuring responsiveness and data integrity.
 - Simulated and tested various entry scenarios, including invalid inputs and concurrent access, to validate system reliability and error handling.
-- Worked with QNX Momentics IDE for development and debugging, and deployed the system on a real-time operating system.
-
-
 
 ### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)**
 
-- Developed and deployed a Fan Club Web Application using ASP.NET Core MVC, Entity Framework, and Azure services.
-- Implemented CRUD operations for fans, clubs, and news, with data integrity checks to maintain consistent relationships.
-- Integrated a user-friendly interface for managing fan subscriptions and sport club data with capabilities to create, view, edit, and delete clubs, with proper handling of associated news and subscriptions.
-- Developed a news management page for users to upload, view, and delete image items related to sport clubs.
-- Deployed the application to Azure Web App, and use Azure Blob Storage for managing and storing media files, and Azure SQL Database for data storage.
+- School Project, .NET Enterprise Application Development, May 2024 - August 2024
+- Developed a full-stack web application using ASP.NET Core MVC framework to manage sports fan clubs, including CRUD operations for fans, sports clubs, and news articles.
+- Implemented entity models and database contexts using Entity Framework Core, supporting data migrations and ensuring seamless updates to the database schema.
+- Created custom controllers to handle HTTP requests, ensuring proper routing and execution of business logic for different application features.
+- Designed and integrated views using Razor syntax to provide dynamic, user-friendly web pages, ensuring a responsive and interactive user experience.
+- Integrated a user-friendly interface for managing fan subscriptions and sport club data, allowing users to create, view, edit, and delete clubs, as well as upload, view, and delete related news items and images.
+- Deployed the application to Azure Web App, used Azure Blob Storage for managing and storing media files, and Azure SQL Database for data storage.
 
 
 
