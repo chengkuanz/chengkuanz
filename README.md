@@ -44,6 +44,14 @@ Ottawa, ON, (May 2022 - Present)
 
 ## Projects
 
+### **[Fan Club Web Application](https://github.com/chengkuanz/cst8359-Assignment2)**
+- Developed and deployed a Fan Club Web Application using ASP.NET Core MVC, Entity Framework, and Azure services.
+- Implemented CRUD operations for fans, clubs, and news, with data integrity checks to maintain consistent relationships.
+- Integrated a user-friendly interface for managing fan subscriptions and sport club data with capabilities to create, view, edit, and delete clubs, with proper handling of associated news and subscriptions.
+- Developed a news management page for users to upload, view, and delete image items related to sport clubs.
+- Deployed the application to Azure Web App, and use Azure Blob Storage for file storage and Azure SQL Database for data storage.
+
+
 ### **[Personal Website](https://chengkuanz.github.io/)**    
 
 - A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).        
