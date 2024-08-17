@@ -35,7 +35,7 @@ Ottawa, ON, (May 2022 - Present)
 
 
 
-### **[Fan Club Web Application](https://github.com/chengkuanz/cst8359-Assignment2)**
+### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)**
 
 - Developed and deployed a Fan Club Web Application using ASP.NET Core MVC, Entity Framework, and Azure services.
 - Implemented CRUD operations for fans, clubs, and news, with data integrity checks to maintain consistent relationships.
@@ -45,7 +45,7 @@ Ottawa, ON, (May 2022 - Present)
 
 
 
-### **[Simon Game](https://github.com/chengkuanz/SimonGame)**      
+### **[Simon Game - C++](https://github.com/chengkuanz/SimonGame)**      
 
 - Developed an interactive Simon Game in C++ using [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
 - Implemented game mechanics to generate and display random color sequences, enhancing gameplay difficulty with each level.
@@ -54,7 +54,7 @@ Ottawa, ON, (May 2022 - Present)
 - Programmed logic for real-time user input validation and feedback.
 - Enabled restart functionality and performance tracking to improve player engagement and retention.
 
-### **[Picross Game](https://github.com/chengkuanz/Picross)**
+### **[Picross Game - Java Swing](https://github.com/chengkuanz/Picross)**
 
 - Developed a multiplayer Picross game in Java using the MVC architectural pattern.
 - Implemented real-time communication between server and clients with Java Sockets.
