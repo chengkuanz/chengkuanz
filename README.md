@@ -43,9 +43,16 @@ Ottawa, ON, (May 2022 - Present)
 
 
 ## Projects
-### **[Personal Website](https://chengkuanz.github.io/)**
 
-- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).
+### **[Building Entry Controller System - QNX](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)**
+
+- Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS for the CST8244 - Real-Time Programming course.
+- Designed and maintained a state machine a system to manage the entry and exit of individuals through a controlled two-door system using card scanners, a scale to weigh individuals, and manual guard-operated locks.
+- Implemented semaphores, message passing, and shared memory to synchronize tasks and communicate between processes, ensuring real-time responsiveness and data integrity.
+- Simulated and tested various entry scenarios, including invalid inputs and concurrent access, to validate system reliability and error handling.
+- Worked with QNX Momentics IDE for development and debugging, and deployed the system on a real-time operating system.
+
+
 
 ### **[Fan Club Web Application](https://github.com/chengkuanz/cst8359-Assignment2)**
 
@@ -81,6 +88,13 @@ Ottawa, ON, (May 2022 - Present)
 - Implemented a Reader module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
 - Created a Scanner module to tokenize input data, incorporating finite state machines, token attributes, and error handling for lexical analysis.
 - Designed a Parser module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.      
+
+
+### **[Personal Website](https://chengkuanz.github.io/)**
+
+- A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).
+
+
 
 
 ### **High-Speed Reduction Helical Gear Box Design**
