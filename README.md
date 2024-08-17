@@ -25,6 +25,14 @@ Ottawa, ON, (May 2022 - Present)
 
 ## Projects
 
+### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)**
+
+- Developed a Metronome Resource Manager for QNX Neutrino RTOS, simulating rhythmic patterns using C.
+- Implemented multi-threading, pulse messaging, and timers to ensure accurate beat timing and responsiveness in the metronome’s operation.
+- Designed and managed a command-line interface for controlling the metronome via QNX resource manager, enabling start, stop, pause, and configuration operations.
+- Utilized QNX Neutrino's resource manager framework to integrate the metronome with the QNX filesystem, allowing interaction through device files.
+- Automated testing of the metronome's functionality using a custom acceptance-test script to verify the correct functionality of the metronome in various scenarios, ensuring reliability and accuracy.
+
 ### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)**
 
 - Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS for the CST8244 - Real-Time Programming course.
