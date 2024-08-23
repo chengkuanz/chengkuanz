@@ -134,8 +134,9 @@ Ottawa, ON, (May 2022 - Present)
 ## Technical Skills
 
 - **Programming Languages**: Java SE, C, C++, Swift, Assembly, R, Linux Shell Scripting, PowerShell, C#, Cobol, Jakarta EE
-- **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Clion, NetBeans, QNX Neutrino, Momentics
-- **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js, Express.js
+- **Operating Systems**: Windows, macOS, Linux (Ubuntu, Raspbian), QNX Neutrino RTOS
+- **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, Android Studio, Firebase, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Clion, NetBeans, Momentics
+- **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js, Express.js，ASP.NET
 - **Networking & Security**: TCP/IP, OSI Model, Subnetting, VLANs, Firewalls, Wireshark, Cisco Packet Tracer, client/server socket programming
 - **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5, Fritzing
 
