@@ -16,6 +16,13 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html),  
 Gatineau, QC, (September 2022 - December 2022)  
 Ottawa, ON, (May 2023 - Present)
+  - Developed and implemented adaptive technology solutions to enhance workplace accessibility for employees with disabilities, injuries, and ergonomic needs.
+  - Provided expert advice and technical support for adaptive technology installations, configurations, and usage.
+  - Conducted presentations and training sessions on accessible software, hardware, and digital content creation.
+  - Researched and tested new adaptive technologies for compatibility and accessibility compliance.
+  - Collaborated with clients to customize interfaces, keyboard macros, and other tools to improve efficiency and productivity.
+  - Created comprehensive documentation and informative materials to assist clients in utilizing adaptive technologies effectively.
+
 
 
 - **Peer Tutor**, Algonquin College  
