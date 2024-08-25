@@ -5,8 +5,8 @@
 I am currently a student at Algonquin College in the Computer Engineering Technology program. I am passionate about learning new technologies and programming languages and am always looking for opportunities to grow as a developer. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
 ## Education
 
-- [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)
-
+- [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)    
+    - Dean’s Honour List; GPA 3.90/4.0
 
 - Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
 
@@ -22,8 +22,6 @@ Ottawa, ON, (May 2023 - Present)
   - Researched and tested new adaptive technologies for compatibility and accessibility compliance.
   - Collaborated with clients to customize interfaces, keyboard macros, and other tools to improve efficiency and productivity.
   - Created comprehensive documentation and informative materials to assist clients in utilizing adaptive technologies effectively.
-
-
 
 - **Peer Tutor**, Algonquin College  
 Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),   
