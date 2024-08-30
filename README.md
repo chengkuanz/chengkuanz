@@ -6,7 +6,7 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 ## Education
 
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)    
-    - Dean’s Honour List; GPA 3.90/4.0
+    - Dean’s Honour List; GPA 3.90/4.00
 - Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
 
 ## Experience
@@ -21,10 +21,13 @@ Ottawa, ON, (May 2023 - Present)
   - Researched and tested new adaptive technologies for compatibility and accessibility compliance.
   - Collaborated with clients to customize interfaces, keyboard macros, and other tools to improve efficiency and productivity.
   - Created comprehensive documentation and informative materials to assist clients in utilizing adaptive technologies effectively.
-
 - **Peer Tutor**, Algonquin College  
 Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),   
-Ottawa, ON, (May 2022 - Present)
+Ottawa, ON, (May 2022 - August 2024)
+  - Provided academic support to students in various computer engineering courses, including programming, data structures, and algorithms.
+  - Conducted one-on-one tutoring sessions to enhance students' understanding of course material.
+  - Assisted students in developing study strategies, time management skills, and exam preparation techniques.
+  - Created and delivered engaging presentations and learning resources to facilitate student learning and comprehension.
 
 
 ## Contact
