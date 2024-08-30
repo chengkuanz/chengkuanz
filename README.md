@@ -22,6 +22,7 @@ Ottawa, ON, (May 2023 - Present)
   - Collaborated with clients to customize interfaces, keyboard macros, and other tools to improve efficiency and productivity.
   - Created comprehensive documentation and informative materials to assist clients in utilizing adaptive technologies effectively.     
 
+
 - **Peer Tutor**, Algonquin College     
 Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),   
 Ottawa, ON, (May 2022 - August 2024)          
