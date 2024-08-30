@@ -7,7 +7,6 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)    
     - Dean’s Honour List; GPA 3.90/4.0
-
 - Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
 
 ## Experience
