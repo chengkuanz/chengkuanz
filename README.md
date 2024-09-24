@@ -6,15 +6,19 @@ I am currently a student at Algonquin College in the Computer Engineering Techno
 ## Education
 
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)    
-    - Dean’s Honour List; GPA 3.90/4.00
+    - Graduated with Honours; GPA 3.90/4.00; Dean’s Honour List;
 - Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
 
 ## Experience
 
+- **IT Technician**, Shared Services Canada, Government of Canada, Ottawa, ON (August 2024 - Present)  
+  Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html)
+
+
 - **Accessibility & Adaptive Technology Student** , Shared Services Canada, Government of Canada    
-Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html),  
+Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html)    
 Gatineau, QC, (September 2022 - December 2022)  
-Ottawa, ON, (May 2023 - Present)       
+Ottawa, ON, (May 2023 - August 2024)       
   - Developed and implemented adaptive technology solutions to enhance workplace accessibility for employees with disabilities, injuries, and ergonomic needs.
   - Provided expert advice and technical support for adaptive technology installations, configurations, and usage.
   - Conducted presentations and training sessions on accessible software, hardware, and digital content creation.
