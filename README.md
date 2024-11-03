@@ -46,6 +46,15 @@ Ottawa, ON, (May 2022 - August 2024)
 
 ## Projects
 
+### **[Arduino Digit Matching Game](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**
+- Developed an interactive Arduino-based game utilizing a 7-segment display controlled via a shift register.
+- Implemented push-button functionality with debounce handling using the Bounce2 library to ensure accurate user input.
+- Designed game logic where players attempt to match randomly generated digits across consecutive button presses.
+- Employed bitwise operations to control individual segments of the 7-segment display for dynamic visual feedback.
+- Created visual indicators such as blinking digits for successful matches and displaying decimal points for mismatches.
+- Utilized serial communication for real-time debugging and to display game status updates during development.
+
+
 ### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)**
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
