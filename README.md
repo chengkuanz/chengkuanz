@@ -46,7 +46,7 @@ Ottawa, ON, (May 2022 - August 2024)
 
 ## Projects
 
-### **[Arduino Digit Matching Game](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**
+### **[Arduino Digit Matching Game](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/chengkuanz/Arduino-Digit-Match-Game?tab=readme-ov-file#demo-video)
 - Developed an interactive Arduino-based game utilizing a 7-segment display controlled via a shift register.
 - Implemented push-button functionality with debounce handling using the Bounce2 library to ensure accurate user input.
 - Designed game logic where players attempt to match randomly generated digits across consecutive button presses.
