@@ -46,7 +46,7 @@ Ottawa, ON, (May 2022 - August 2024)
 
 ## Projects
 
-### **[Arduino Digit Matching Game](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/chengkuanz/Arduino-Digit-Match-Game?tab=readme-ov-file#demo-video)
+### **[Arduino Digit Matching Game](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf)
 - Developed an interactive Arduino-based game utilizing a 7-segment display controlled via a shift register.
 - Implemented push-button functionality with debounce handling using the Bounce2 library to ensure accurate user input.
 - Designed game logic where players attempt to match randomly generated digits across consecutive button presses.
@@ -73,7 +73,7 @@ Ottawa, ON, (May 2022 - August 2024)
 - Implemented semaphores, and QNX-specific IPC mechanisms including MsgSend, MsgReceive, and MsgReply (message passing) along with shared memory and channels synchronize tasks and communicate between processes, ensuring responsiveness and data integrity.
 - Simulated and tested various entry scenarios, including invalid inputs and concurrent access, to validate system reliability and error handling.
 
-### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)**
+### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)** [(Demo video)](https://github.com/user-attachments/assets/6cc369cf-c173-4036-accd-63a07cd12086)
 
 - School Project, .NET Enterprise Application Development, May 2024 - August 2024
 - Developed a full-stack web application using ASP.NET Core MVC framework to manage sports fan clubs, including CRUD operations for fans, sports clubs, and news articles.
