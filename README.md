@@ -73,7 +73,7 @@ Ottawa, ON, (May 2022 - August 2024)
 - Implemented semaphores, and QNX-specific IPC mechanisms including MsgSend, MsgReceive, and MsgReply (message passing) along with shared memory and channels synchronize tasks and communicate between processes, ensuring responsiveness and data integrity.
 - Simulated and tested various entry scenarios, including invalid inputs and concurrent access, to validate system reliability and error handling.
 
-### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)** [(Demo video)](https://github.com/user-attachments/assets/6cc369cf-c173-4036-accd-63a07cd12086)
+### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)** [(Demo video)](https://github.com/user-attachments/assets/59341224-4027-42a5-af59-184c1ea8f7a7)
 
 - School Project, .NET Enterprise Application Development, May 2024 - August 2024
 - Developed a full-stack web application using ASP.NET Core MVC framework to manage sports fan clubs, including CRUD operations for fans, sports clubs, and news articles.
