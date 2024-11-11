@@ -36,12 +36,7 @@ Ottawa, ON, (May 2022 - August 2024)
   - Created and delivered engaging presentations and learning resources to facilitate student learning and comprehension.
 
 
-## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
-- [Email](mailto:zhao0241@algonquinlive.com)
-- [GitHub](https://github.com/chengkuanz)
-- [Instagram](https://www.instagram.com/chengkuan_/)
 
 
 ## Projects
@@ -156,6 +151,13 @@ Ottawa, ON, (May 2022 - August 2024)
 - **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5, Fritzing
 
 - **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track, WordQ, Antidote, XKeys programming, TextAloud, Microsoft 365 and Windows 10 built-in accessibility features,
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
+- [Email](mailto:zhao0241@algonquinlive.com)
+- [GitHub](https://github.com/chengkuanz)
+- [Instagram](https://www.instagram.com/chengkuan_/)
 
 
 ## Volunteer Experience
