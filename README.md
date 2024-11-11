@@ -29,7 +29,7 @@ Ottawa, ON, (May 2023 - August 2024)
 
 
 - **Peer Tutor**, Algonquin College     
-Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/),   
+Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/)    
 Ottawa, ON, (May 2022 - August 2024)          
   - Provided academic support to students in various computer engineering courses, including programming, data structures, and algorithms.
   - Conducted one-on-one tutoring sessions to enhance students' understanding of course material.
