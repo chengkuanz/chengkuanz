@@ -64,7 +64,7 @@ Ottawa, ON, (May 2022 - August 2024)
 - Utilized QNX Neutrino's resource manager framework to integrate the metronome with the QNX filesystem, allowing interaction through device files.
 - Automated testing of the metronome's functionality using a custom acceptance-test script to verify the correct functionality of the metronome in various scenarios, ensuring reliability and accuracy.
 
-### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)**
+### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)** [(Demo video)](https://github.com/user-attachments/assets/321870a1-d33f-40ef-bb0e-229d322ed255)
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
 - Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS, implementing concurrent processing and process synchronization with semaphores and message passing.
