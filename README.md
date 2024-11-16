@@ -2,7 +2,8 @@
 
 ## About me
 
-I am currently a student at Algonquin College in the Computer Engineering Technology program. I am passionate about learning new technologies and programming languages and am always looking for opportunities to grow as a developer. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
+I am a graduate of Algonquin College’s Computer Engineering Technology program, currently working as an IT Technician with the Accessibility, Accommodations, and Adaptive Computer Technology (AAACT) Team at Shared Services Canada.  I am passionate about technology and have a strong background in software development, real-time programming, and adaptive technologies. I am actively seeking new opportunities to apply my skills and grow as a developer in diverse areas of technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
+
 ## Education
 
 - [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)    
