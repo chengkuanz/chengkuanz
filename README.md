@@ -144,7 +144,7 @@ Ottawa, ON, (May 2022 - August 2024)
 
 ## Technical Skills
 
-- **Programming Languages**: Java, C, C++, C#, Cobol, Swift, Assembly, R, PowerShell, Bash, CMD
+- **Programming Languages**: Java, C, C++, C#, Cobol, Swift, Assembly, R, PowerShell, Bash, Javascript, SQL
 - **Operating Systems**: Windows, macOS, Linux (Ubuntu, Raspbian), QNX Neutrino RTOS
 - **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Clion, NetBeans, Momentics, AsmIDE
 - **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js，ASP.NET，Jakarta EE, Firebase
