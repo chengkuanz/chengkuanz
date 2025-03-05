@@ -16,6 +16,11 @@
 - Created visual indicators such as blinking digits for successful matches and displaying decimal points for mismatches.
 - Utilized serial communication for real-time debugging and to display game status updates during development.
 
+### **[Italian Language Learning Application](https://www.algonquincollege.com/applied-research/2024/07/italian-language-learning-application/)**  
+- https://github.com/chengkuanz/LanguageLearningWebApp
+- https://github.com/chengkuanz/studentportal
+- https://github.com/chengkuanz/studentPortal_iOS
+- https://www.algonquincollege.com/applied-research/2024/07/italian-language-learning-application/
 
 ### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)** [(Demo video)](https://github.com/user-attachments/assets/d40793ac-ab0c-4f8b-8dad-7abf7b41f732)
 <img width="1299" alt="Screenshot 2025-03-05 at 6 01 03 PM" src="https://github.com/user-attachments/assets/5e807ea2-121b-4fc1-95fc-9763a1a3062d" />
