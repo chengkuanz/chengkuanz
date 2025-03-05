@@ -39,6 +39,7 @@
 - Simulated and tested various entry scenarios, including invalid inputs and concurrent access, to validate system reliability and error handling.
 
 ### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)** [(Demo video)](https://github.com/user-attachments/assets/59341224-4027-42a5-af59-184c1ea8f7a7)
+<img width="1418" alt="Screenshot 2025-03-05 at 5 51 40 PM" src="https://github.com/user-attachments/assets/a7f14acd-5d9e-48f8-996b-cd05c0e73cee" />
 
 - School Project, .NET Enterprise Application Development, May 2024 - August 2024
 - Developed a full-stack web application using ASP.NET Core MVC framework to manage sports fan clubs, including CRUD operations for fans, sports clubs, and news articles.
