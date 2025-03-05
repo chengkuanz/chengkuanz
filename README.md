@@ -25,10 +25,10 @@
 - Developed a role-based access control system for students and professors, allowing efficient course and user management.
 - Wrote comprehensive technical documentation detailing project design and system architecture. 
   
-• https://github.com/chengkuanz/LanguageLearningWebApp
-• https://github.com/chengkuanz/studentportal
-• https://github.com/chengkuanz/studentPortal_iOS
-• https://www.algonquincollege.com/applied-research/2024/07/italian-language-learning-application/
+- **Web Application Repository:** [GitHub - Language Learning Web App](https://github.com/chengkuanz/LanguageLearningWebApp)  
+- **Student Portal Web Repository:** [GitHub - Student Portal Web App](https://github.com/chengkuanz/studentportal)  
+- **iOS Mobile Application Repository:** [GitHub - Student Portal iOS App](https://github.com/chengkuanz/studentPortal_iOS)  
+- **Project Overview:** [Algonquin College - Italian Language Learning Application](https://www.algonquincollege.com/applied-research/2024/07/italian-language-learning-application/)  
 
 ### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)** [(Demo video)](https://github.com/user-attachments/assets/d40793ac-ab0c-4f8b-8dad-7abf7b41f732)
 <img width="1299" alt="Screenshot 2025-03-05 at 6 01 03 PM" src="https://github.com/user-attachments/assets/5e807ea2-121b-4fc1-95fc-9763a1a3062d" />
