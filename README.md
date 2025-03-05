@@ -6,10 +6,12 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chengkuan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhao0241@algonquinlive.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chengkuanz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chengkuan_/)
+## Connect with Me
+
+[![LinkedIn](https://img.icons8.com/ios-glyphs/50/808080/github.png)](https://www.linkedin.com/in/chengkuan/)
+[![Email](https://img.icons8.com/ios-filled/50/808080/new-post.png)](mailto:zhao0241@algonquinlive.com)
+[![GitHub](https://img.icons8.com/ios-glyphs/50/808080/github.png)](https://github.com/chengkuanz)
+[![Instagram](https://img.icons8.com/ios-filled/50/808080/instagram-new--v1.png)](https://www.instagram.com/chengkuan_/)
 
 ## Projects
 
