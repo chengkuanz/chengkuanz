@@ -17,13 +17,13 @@
 - Utilized serial communication for real-time debugging and to display game status updates during development.
 
 ### **[Italian Language Learning Application](https://www.algonquincollege.com/applied-research/2024/07/italian-language-learning-application/)**  
-
 - Developed **Next.js-based web applications** for students and professors using **React**.
 - Designed and implemented a **bilingual iOS mobile application** using **SwiftUI**.
 - Integrated **Firebase Authentication** and **Firestore** for secure user authentication and real-time database management.
 - Utilized **Firebase Storage** for efficient and scalable file storage, enabling seamless access to multimedia content (text, video, interactive quizzes) to enhance the learning experience.
 - Developed a role-based access control system for students and professors, allowing efficient course and user management.
 - Wrote comprehensive technical documentation detailing project design and system architecture. 
+
   
 - **Web Application Repository:** [GitHub - Language Learning Web App](https://github.com/chengkuanz/LanguageLearningWebApp)  
 - **Student Portal Web Repository:** [GitHub - Student Portal Web App](https://github.com/chengkuanz/studentportal)  
