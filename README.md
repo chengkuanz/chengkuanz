@@ -1,17 +1,11 @@
 ### Hi there 😃
 
-## Contact
-
 ## Connect with Me
 
-## Connect with Me
-
-## Connect with Me
-
-[![LinkedIn](https://img.icons8.com/ios-glyphs/50/808080/github.png)](https://www.linkedin.com/in/chengkuan/)
-[![Email](https://img.icons8.com/ios-filled/50/808080/new-post.png)](mailto:zhao0241@algonquinlive.com)
-[![GitHub](https://img.icons8.com/ios-glyphs/50/808080/github.png)](https://github.com/chengkuanz)
-[![Instagram](https://img.icons8.com/ios-filled/50/808080/instagram-new--v1.png)](https://www.instagram.com/chengkuan_/)
+- [![LinkedIn](https://img.icons8.com/ios-filled/20/808080/linkedin.png)](https://www.linkedin.com/in/chengkuan/) LinkedIn  
+- [![Email](https://img.icons8.com/ios-filled/20/808080/new-post.png)](mailto:zhao0241@algonquinlive.com) Email  
+- [![GitHub](https://img.icons8.com/ios-glyphs/20/808080/github.png)](https://github.com/chengkuanz) GitHub  
+- [![Instagram](https://img.icons8.com/ios-filled/20/808080/instagram-new--v1.png)](https://www.instagram.com/chengkuan_/) Instagram
 
 ## Projects
 
