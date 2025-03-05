@@ -78,6 +78,7 @@
 
 
 ### **[Personal Website](https://chengkuanz.github.io/)**
+<img width="1411" alt="Screenshot 2025-03-05 at 6 10 29 PM" src="https://github.com/user-attachments/assets/e1962e2a-7aa0-456c-acea-4cfacf06e184" />
 
 - A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).
 
