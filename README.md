@@ -22,7 +22,6 @@
 - Designed and implemented a **bilingual iOS mobile application** using **SwiftUI**.
 - Integrated **Firebase Authentication** and **Firestore** for secure user authentication and real-time database management.
 - Utilized **Firebase Storage** for efficient and scalable file storage, enabling seamless access to multimedia content (text, video, interactive quizzes) to enhance the learning experience.
-- Integrated multimedia content (text, video, interactive quizzes) to enhance the learning experience.
 - Developed a role-based access control system for students and professors, allowing efficient course and user management.
 - Wrote comprehensive technical documentation detailing project design and system architecture. 
   
