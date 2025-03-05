@@ -58,6 +58,7 @@
 - Enabled restart functionality and performance tracking to improve player engagement and retention.
 
 ### **[Picross Game - Java Swing](https://github.com/chengkuanz/Picross)**  [(Demo video)](https://github.com/user-attachments/assets/47c2bc13-a52f-4b1c-b9af-04abbe18e851)
+<img width="744" alt="picross" src="https://github.com/user-attachments/assets/f19607c2-1b9b-4e98-8d4f-932b43d6b6d8" />
 
 - Developed a multiplayer Picross game in Java using the MVC architectural pattern.
 - Implemented real-time communication between server and clients with Java Sockets.
