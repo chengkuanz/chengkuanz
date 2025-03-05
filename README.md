@@ -2,10 +2,23 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
-- [Email](mailto:zhao0241@algonquinlive.com)
-- [GitHub](https://github.com/chengkuanz)
-- [Instagram](https://www.instagram.com/chengkuan_/)
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/chengkuan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:zhao0241@algonquinlive.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/chengkuanz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.instagram.com/chengkuan_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 ## Projects
 
