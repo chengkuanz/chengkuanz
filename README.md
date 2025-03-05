@@ -100,6 +100,8 @@
 
 
 ### **Advanced Urban Air Mobility (UAM) VTOL Aircraft Design**
+![4907jpg](https://github.com/user-attachments/assets/d8446aa7-0cf9-4bc5-a5dd-f33a4d276e75)
+
 - 4th Year Capstone Project, MAAE 4907A Advanced Aircraft Design, September 2020 – April 2021
 - Collaborated with a group of ten to design an aircraft capable of vertical takeoff and landing (VTOL).
 - Designed, modeled, and created engineering drawings for the landing gear assembly and the transmission system using Fusion 360.   
