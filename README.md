@@ -80,6 +80,7 @@
 
 
 ### **High-Speed Reduction Helical Gear Box Design**
+![image](https://github.com/user-attachments/assets/2a85c4ba-2f4f-4703-85d0-aea56852fbbc)
 
 - School Project, MECH 4003 Mechanical Systems Design, September 2020 – December 2020
 - Performed preliminary design of a double-helical gearbox used to drive a generator
