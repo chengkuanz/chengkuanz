@@ -1,45 +1,11 @@
 ### Hi there 😃
 
-## About me
+## Contact
 
-I am a graduate of Algonquin College’s Computer Engineering Technology program, currently working as an IT Technician with the Accessibility, Accommodations, and Adaptive Computer Technology (AAACT) Team at Shared Services Canada.  I am passionate about technology and have a strong background in software development, real-time programming, and adaptive technologies. I am actively seeking new opportunities to apply my skills and grow as a developer in diverse areas of technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chengkuan/).
-
-## Education
-
-- [Computer Engineering Technology](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/), Algonquin College (2021 - 2024)    
-    - Graduated with Honours; GPA 3.90/4.00; Dean’s Honour List;
-- Bachelor of Engineering, [Mechanical Engineering](https://carleton.ca/mae/), Carleton University (2017 - 2021)
-
-## Experience
-
-- **IT Technician**, Shared Services Canada, Government of Canada   
-Ottawa, ON (August 2024 - Present)    
-Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html)
-
-
-- **Accessibility & Adaptive Technology Student** , Shared Services Canada, Government of Canada    
-Accessibility, Accommodations and Adaptive Computer Technology Team [(AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html)    
-Gatineau, QC, (September 2022 - December 2022)  
-Ottawa, ON, (May 2023 - August 2024)       
-  - Developed and implemented adaptive technology solutions to enhance workplace accessibility for employees with disabilities, injuries, and ergonomic needs.
-  - Provided expert advice and technical support for adaptive technology installations, configurations, and usage.
-  - Conducted presentations and training sessions on accessible software, hardware, and digital content creation.
-  - Researched and tested new adaptive technologies for compatibility and accessibility compliance.
-  - Collaborated with clients to customize interfaces, keyboard macros, and other tools to improve efficiency and productivity.
-  - Created comprehensive documentation and informative materials to assist clients in utilizing adaptive technologies effectively.     
-
-
-- **Peer Tutor**, Algonquin College     
-Student Learning Centre [(SLC)](https://www.algonquincollege.com/slc/)    
-Ottawa, ON, (May 2022 - August 2024)          
-  - Provided academic support to students in various computer engineering courses, including programming, data structures, and algorithms.
-  - Conducted one-on-one tutoring sessions to enhance students' understanding of course material.
-  - Assisted students in developing study strategies, time management skills, and exam preparation techniques.
-  - Created and delivered engaging presentations and learning resources to facilitate student learning and comprehension.
-
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
+- [Email](mailto:zhao0241@algonquinlive.com)
+- [GitHub](https://github.com/chengkuanz)
+- [Instagram](https://www.instagram.com/chengkuan_/)
 
 ## Projects
 
@@ -113,8 +79,6 @@ Ottawa, ON, (May 2022 - August 2024)
 - A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).
 
 
-
-
 ### **High-Speed Reduction Helical Gear Box Design**
 
 - School Project, MECH 4003 Mechanical Systems Design, September 2020 – December 2020
@@ -142,38 +106,6 @@ Ottawa, ON, (May 2022 - August 2024)
 - Performed finite element analysis (FEA) on the landing gear assembly using ANSYS Workbench and Explicit Dynamics to evaluate its performance and ensure compliance with aviation standards.
 - Developed technical reports on the landing gear design and related analyses.
 - Delivered technical presentations detailing the design to over ten professional audiences.
-
-## Technical Skills
-
-- **Programming Languages**: Java, C, C++, C#, Cobol, Swift, Assembly, R, PowerShell, Bash, Javascript, SQL
-- **Operating Systems**: Windows, macOS, Linux (Ubuntu, Raspbian), QNX Neutrino RTOS
-- **Developer Tools**: Git, GitHub, Visual Studio, PhpStorm, Eclipse, Xcode, MySQL, RStudio, Arduino IDE, IntelliJ IDEA, Clion, NetBeans, Momentics, AsmIDE
-- **Web Development**: JavaScript, HTML, CSS, PHP, SQL, React, Bootstrap, jQuery, AJAX, RESTful APIs, JSON, npm, Node.js, Next.js，ASP.NET，Jakarta EE, Firebase
-- **Networking & Security**: TCP/IP, OSI Model, Subnetting, VLANs, Firewalls, Wireshark, Cisco Packet Tracer, client/server socket programming
-- **Simulation & Design Software**: MATLAB, Ansys Workbench, Ansys Mechanical, Ansys CFX, Ansys Explicit Dynamics, LabVIEW, NI Multisim, SimScale, Simulink, Maple, WAVE, Fusion 360, PTC Creo, Onshape, Catia v5, Fritzing
-
-- **Adaptive Technology Software**: JAWS, NVDA, Dragon Naturally Speaking, ZoomText, SuperNova, Tint and Track, WordQ, Antidote, XKeys programming, TextAloud, Microsoft 365 and Windows 10 built-in accessibility features,
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/chengkuan/)
-- [Email](mailto:zhao0241@algonquinlive.com)
-- [GitHub](https://github.com/chengkuanz)
-- [Instagram](https://www.instagram.com/chengkuan_/)
-
-
-## Volunteer Experience
-
-- **Peer Mentor**, Algonquin College  
-  International Education Centre [(IEC)](https://www.algonquincollege.com/international/),  
-  December 2021 - December 2023
-
-- **Classroom Notetaker**, Carleton University   
-  Paul Menton Centre for Students with Disabilities [(PMC)](https://carleton.ca/pmc/)    
-  May 2018 - August 2020
-
-- **Aftercare Volunteer**, [Reforest London](https://reforestlondon.ca/)    
-  July 2016 - September 2016   
 
 
 
