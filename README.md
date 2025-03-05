@@ -21,6 +21,7 @@
 
 
 ### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)** [(Demo video)](https://github.com/user-attachments/assets/d40793ac-ab0c-4f8b-8dad-7abf7b41f732)
+<img width="1299" alt="Screenshot 2025-03-05 at 6 01 03 PM" src="https://github.com/user-attachments/assets/5e807ea2-121b-4fc1-95fc-9763a1a3062d" />
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
 - Developed a Metronome Resource Manager for QNX Neutrino RTOS, simulating rhythmic patterns using C.
@@ -30,6 +31,7 @@
 - Automated testing of the metronome's functionality using a custom acceptance-test script to verify the correct functionality of the metronome in various scenarios, ensuring reliability and accuracy.
 
 ### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)** [(Demo video)](https://github.com/user-attachments/assets/321870a1-d33f-40ef-bb0e-229d322ed255)
+<img width="1432" alt="Screenshot 2025-03-05 at 6 03 33 PM" src="https://github.com/user-attachments/assets/a84387b5-30f6-4e12-8852-52ef54256de3" />
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
 - Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS, implementing concurrent processing and process synchronization with semaphores and message passing.
