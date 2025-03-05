@@ -109,7 +109,6 @@
 - 4th Year Capstone Project, MAAE 4907A Advanced Aircraft Design, September 2020 – April 2021
 - Collaborated with a group of ten to design an aircraft capable of vertical takeoff and landing (VTOL).
 - Designed, modeled, and created engineering drawings for the landing gear assembly and the transmission system using Fusion 360.   
-- Developed a Python program to automatically calculate key parameters of the transmission system.
 - Performed finite element analysis (FEA) on the landing gear assembly using ANSYS Workbench and Explicit Dynamics to evaluate its performance and ensure compliance with aviation standards.
 - Developed technical reports on the landing gear design and related analyses.
 - Delivered technical presentations detailing the design to over ten professional audiences.
