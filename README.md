@@ -9,8 +9,8 @@
 ### **[Digit Matching Game - Arduino](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf)
 <img width="911" alt="Screenshot 2025-03-05 at 5 46 57 PM" src="https://github.com/user-attachments/assets/e40f0ef7-bad3-41ac-86b3-0cc8d5209557" />
 
-- Developed an interactive Arduino-based game utilizing a 7-segment display controlled via a shift register.
-- Implemented push-button functionality with debounce handling using the Bounce2 library to ensure accurate user input.
+- Developed an interactive **Arduino**-based game utilizing a **7-segment display** controlled via a **shift register**.
+- Implemented push-button functionality with **debouncing** handling using the Bounce2 library to ensure accurate user input.
 - Designed game logic where players attempt to match randomly generated digits across consecutive button presses.
 - Employed bitwise operations to control individual segments of the 7-segment display for dynamic visual feedback.
 - Created visual indicators such as blinking digits for successful matches and displaying decimal points for mismatches.
@@ -26,10 +26,10 @@
 <img width="1299" alt="Screenshot 2025-03-05 at 6 01 03 PM" src="https://github.com/user-attachments/assets/5e807ea2-121b-4fc1-95fc-9763a1a3062d" />
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
-- Developed a Metronome Resource Manager for QNX Neutrino RTOS, simulating rhythmic patterns using C.
-- Implemented multi-threading, pulse messaging, and timers to ensure accurate beat timing and responsiveness in the metronome’s operation.
+- Developed a Metronome Resource Manager for **QNX Neutrino RTOS**, simulating rhythmic patterns using C.
+- Implemented **multi-threading**, **pulse messaging**, and **timers** to ensure accurate beat timing and responsiveness in the metronome’s operation.
 - Designed and managed a command-line interface for controlling the metronome via QNX resource manager, enabling start, stop, pause, and configuration operations.
-- Utilized QNX Neutrino's resource manager framework to integrate the metronome with the QNX filesystem, allowing interaction through device files.
+- Utilized QNX Neutrino's **resource manager** framework to integrate the metronome with the QNX filesystem, allowing interaction through device files.
 - Automated testing of the metronome's functionality using a custom acceptance-test script to verify the correct functionality of the metronome in various scenarios, ensuring reliability and accuracy.
 
 ### **[Building Entry Controller System - QNX Neutrino](https://github.com/chengkuanz/Building-Entry-Controller-System-QNX)** [(Demo video)](https://github.com/user-attachments/assets/321870a1-d33f-40ef-bb0e-229d322ed255)
