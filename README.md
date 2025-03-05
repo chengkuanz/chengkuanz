@@ -2,10 +2,10 @@
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.icons8.com/ios-filled/20/808080/linkedin.png)](https://www.linkedin.com/in/chengkuan/) LinkedIn  
-- [![Email](https://img.icons8.com/ios-filled/20/808080/new-post.png)](mailto:zhao0241@algonquinlive.com) Email  
-- [![GitHub](https://img.icons8.com/ios-glyphs/20/808080/github.png)](https://github.com/chengkuanz) GitHub  
-- [![Instagram](https://img.icons8.com/ios-filled/20/808080/instagram-new--v1.png)](https://www.instagram.com/chengkuan_/) Instagram
+- [![LinkedIn](https://img.icons8.com/ios-filled/20/808080/linkedin.png) LinkedIn](https://www.linkedin.com/in/chengkuan/)
+- [![Email](https://img.icons8.com/ios-filled/20/808080/new-post.png) Email](mailto:zhao0241@algonquinlive.com)
+- [![GitHub](https://img.icons8.com/ios-glyphs/20/808080/github.png) GitHub](https://github.com/chengkuanz)
+- [![Instagram](https://img.icons8.com/ios-filled/20/808080/instagram-new--v1.png) Instagram](https://www.instagram.com/chengkuan_/)
 
 ## Projects
 
