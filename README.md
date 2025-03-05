@@ -22,9 +22,8 @@
 - Integrated **Firebase Authentication** and **Firestore** for secure user authentication and real-time database management.
 - Utilized **Firebase Storage** for efficient and scalable file storage, enabling seamless access to multimedia content (text, video, interactive quizzes) to enhance the learning experience.
 - Developed a role-based access control system for students and professors, allowing efficient course and user management.
-- Wrote comprehensive technical documentation detailing project design and system architecture. 
-
-  
+- Wrote comprehensive technical documentation detailing project design and system architecture.
+- 
 - **Web Application Repository:** [GitHub - Language Learning Web App](https://github.com/chengkuanz/LanguageLearningWebApp)  
 - **Student Portal Web Repository:** [GitHub - Student Portal Web App](https://github.com/chengkuanz/studentportal)  
 - **iOS Mobile Application Repository:** [GitHub - Student Portal iOS App](https://github.com/chengkuanz/studentPortal_iOS)  
