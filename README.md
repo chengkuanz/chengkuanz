@@ -17,6 +17,8 @@
 - Utilized serial communication for real-time debugging and to display game status updates during development.
 
 ### **[Italian Language Learning Application](https://www.algonquincollege.com/applied-research/2024/07/italian-language-learning-application/)**  
+![image (1)](https://github.com/user-attachments/assets/e9207f6a-e8d9-4431-a95e-206f688c6a48)
+
 - Developed **Next.js-based web applications** for students and professors using **React**.
 - Designed and implemented a **bilingual iOS mobile application** using **SwiftUI**.
 - Integrated **Firebase Authentication** and **Firestore** for secure user authentication and real-time database management.
