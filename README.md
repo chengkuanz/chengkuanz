@@ -100,6 +100,7 @@
 
 ### **Internal Combustion Engine Optimization Project**
  <img width="468" alt="IC" src="https://github.com/user-attachments/assets/8c351fbd-8192-4c73-8e8e-2eb73901a5f6" />
+ 
 - School Project, MECH 4904 Internal Combustion Engine, January 2021 – April 2021
 - Analyzed and optimized a **Nissan SR20DE** internal combustion engine using **Ricardo Wave** simulation software to increase **torque**, **power**, and **volumetric efficiency (VE)**.
 - Achieved an 8.2% increase in **VE** at 5000 RPM and 100% throttle (WOT) through modifications including **valve timing adjustments** and optimization of **intake/exhaust geometry**.
