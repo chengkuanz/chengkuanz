@@ -20,7 +20,7 @@
 ![image (1)](https://github.com/user-attachments/assets/e9207f6a-e8d9-4431-a95e-206f688c6a48)
 
 - Developed **Next.js-based web applications** for students and professors using **React**.
-- Designed and implemented a **bilingual iOS mobile application** using **SwiftUI**.
+- Designed and implemented a bilingual **iOS mobile application** using **SwiftUI**.
 - Integrated **Firebase Authentication** and **Firestore** for secure user authentication and real-time database management.
 - Utilized **Firebase Storage** for efficient and scalable file storage, enabling seamless access to multimedia content (text, video, interactive quizzes) to enhance the learning experience.
 - Developed a role-based access control system for students and professors, allowing efficient course and user management.
@@ -97,6 +97,15 @@
 <img width="1411" alt="Screenshot 2025-03-05 at 6 10 29 PM" src="https://github.com/user-attachments/assets/e1962e2a-7aa0-456c-acea-4cfacf06e184" />
 
 - A personal portfolio website that was built using [HTML5 UP](https://html5up.net/) theme, customized and deployed on [GitHub Pages](https://pages.github.com/).
+
+### **Internal Combustion Engine Optimization Project**
+- **Analyzed and optimized** a **Nissan SR20DE** internal combustion engine using **Ricardo Wave** simulation software to increase **torque**, **power**, and **volumetric efficiency (VE)**.
+- Achieved an **8.2% increase** in VE at **5000 RPM** and **100% throttle (WOT)** through modifications including **valve timing adjustments** and optimization of **intake/exhaust geometry**.
+- Optimized **camshaft profiles**, improving torque output from **47.41 Nm** to **47.49 Nm** and VE from **103.54%** to **107.98%** at peak operating conditions.
+- Selected a **530 cc/min fuel injector** placed **25 mm downstream** in the intake manifold to maintain optimal **fuel-air mixture** across all engine conditions.
+- Developed comprehensive **VE maps**, **fuel consumption estimates**, and **ignition timing maps** to illustrate improved engine performance across varied engine loads and RPM ranges.
+- Recommended further enhancements, including the introduction of **forced induction (turbocharging/supercharging)**, **variable valve timing**, and advanced fueling systems for additional performance gains.
+
 
 
 ### **High-Speed Reduction Helical Gear Box Design**
