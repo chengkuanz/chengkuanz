@@ -47,11 +47,12 @@
 <img width="1432" alt="Screenshot 2025-03-05 at 6 03 33 PM" src="https://github.com/user-attachments/assets/a84387b5-30f6-4e12-8852-52ef54256de3" />
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
-- Developed a simulation of a building entry controller system using C on the QNX Neutrino RTOS, implementing concurrent processing and process synchronization with semaphores and message passing.
-- Designed and implemented a state machine to manage controlled access through dual doors, integrating card scanners, a weight scale, and manual guard-operated locks.
-- Created separate programs for input handling, state control, and display updates. 
-- Implemented semaphores, and QNX-specific IPC mechanisms including MsgSend, MsgReceive, and MsgReply (message passing) along with shared memory and channels synchronize tasks and communicate between processes, ensuring responsiveness and data integrity.
-- Simulated and tested various entry scenarios, including invalid inputs and concurrent access, to validate system reliability and error handling.
+- Developed a simulation of a building entry controll system in **C** using the **QNX Neutrino RTOS**, implementing concurrent processing and synchronization through **semaphores** and **message passing**.
+- Designed a robust state machine to manage secure, controlled access through a two-door entry system, integrating components like card scanners, weight scales, and guard-operated manual locks.
+- Created modular programs for distinct functionalities: input handling (des_inputs), state management (des_controller), and real-time system status updates (des_display).
+- Utilized **QNX-specific Inter-Process Communication (IPC)** mechanisms including **MsgSend**, **MsgReceive**, and **MsgReply**, along with **shared memory** and **channels**, ensuring reliable synchronization and responsive communication between processes.
+- Conducted comprehensive scenario simulations and rigorous testing, validating system reliability and robust error-handling capabilities under concurrent and invalid input conditions.
+
 
 ### **[Fan Club Web Application - ASP.NET](https://github.com/chengkuanz/cst8359-Assignment2)** [(Demo video)](https://github.com/user-attachments/assets/59341224-4027-42a5-af59-184c1ea8f7a7)
 <img width="1418" alt="Screenshot 2025-03-05 at 5 51 40 PM" src="https://github.com/user-attachments/assets/a7f14acd-5d9e-48f8-996b-cd05c0e73cee" />
