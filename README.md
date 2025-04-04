@@ -10,9 +10,9 @@
 <img width="911" alt="Screenshot 2025-03-05 at 5 46 57 PM" src="https://github.com/user-attachments/assets/e40f0ef7-bad3-41ac-86b3-0cc8d5209557" />
 
 - Developed an interactive **Arduino**-based game utilizing a **anode 7-segment display** controlled via a **8-bit shift register**.
-- Implemented push-button functionality with **debouncing** handling using the Bounce2 library to ensure accurate user input.
+- Implemented **push button switch** functionality with **debouncing** handling using the **Bounce2 library** to ensure accurate user input.
 - Designed game logic where players attempt to match randomly generated digits across consecutive button presses.
-- Employed bitwise operations to control individual segments of the 7-segment display for dynamic visual feedback.
+- Employed **bitwise operations** to control individual segments of the 7-segment display for dynamic visual feedback.
 - Created visual indicators such as blinking digits for successful matches and displaying decimal points for mismatches.
 - Utilized serial communication for real-time debugging and to display game status updates during development.
 
