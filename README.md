@@ -9,7 +9,7 @@
 ### **[Digit Matching Game - Arduino](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf)
 <img width="911" alt="Screenshot 2025-03-05 at 5 46 57 PM" src="https://github.com/user-attachments/assets/e40f0ef7-bad3-41ac-86b3-0cc8d5209557" />
 
-- Developed an interactive **Arduino**-based game utilizing a **7-segment display** controlled via a **shift register**.
+- Developed an interactive **Arduino**-based game utilizing a **anode 7-segment display** controlled via a **8-bit shift register**.
 - Implemented push-button functionality with **debouncing** handling using the Bounce2 library to ensure accurate user input.
 - Designed game logic where players attempt to match randomly generated digits across consecutive button presses.
 - Employed bitwise operations to control individual segments of the 7-segment display for dynamic visual feedback.
