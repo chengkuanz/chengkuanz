@@ -57,12 +57,12 @@
 <img width="1418" alt="Screenshot 2025-03-05 at 5 51 40 PM" src="https://github.com/user-attachments/assets/a7f14acd-5d9e-48f8-996b-cd05c0e73cee" />
 
 - School Project, .NET Enterprise Application Development, May 2024 - August 2024
-- Developed a full-stack web application using ASP.NET Core MVC framework to manage sports fan clubs, including CRUD operations for fans, sports clubs, and news articles.
-- Implemented entity models and database contexts using Entity Framework Core, supporting database migrations and ensuring seamless updates to the database schema.
-- Created custom controllers to handle HTTP requests, ensuring proper routing and execution of business logic for different application features.
-- Designed and integrated views using Razor syntax to provide dynamic, user-friendly web pages, ensuring a responsive and interactive user experience.
-- Integrated a user-friendly interface for managing fan subscriptions and sport club data, allowing users to create, view, edit, and delete clubs, as well as upload, view, and delete related news items and images.
-- Deployed the application to Azure Web App, used Azure Blob Storage for managing and storing media files, and Azure SQL Database for data storage.
+- Developed a full-stack web application using **ASP.NET Core MVC framework** to manage sports fan clubs, including **CRUD** operations for fans, sports clubs, and news articles.
+- Implemented entity models and database contexts using **Entity Framework Core**, supporting **database migrations** and ensuring seamless updates to the database schema.
+- Created **custom controllers** to handle HTTP requests, ensuring proper routing and execution of business logic for different application features.
+- Designed and integrated views using **Razor Page** syntax to provide dynamic, user-friendly web pages, ensuring a responsive and interactive user experience.
+- Integrated a user-friendly interface and sorting logic to diaplay and manage fan subscriptions and sport club data, allowing users to create, view, edit, and delete clubs, as well as upload, view, and delete related news items and images.
+- Deployed the application to **Azure Web App**, used **Azure Blob Storage** for managing and storing media files, and **Azure SQL Database** for data storage.
 
 
 
