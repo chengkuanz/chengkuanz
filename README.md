@@ -2,7 +2,25 @@
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.icons8.com/ios-filled/20/808080/linkedin.png) LinkedIn](https://www.linkedin.com/in/chengkuan/)     [![Email](https://img.icons8.com/ios-filled/20/808080/new-post.png) Email](mailto:zhao0241@algonquinlive.com)     [![GitHub](https://img.icons8.com/ios-glyphs/20/808080/github.png) GitHub](https://github.com/chengkuanz)      [![Instagram](https://img.icons8.com/ios-filled/20/808080/instagram-new--v1.png) Instagram](https://www.instagram.com/chengkuan_/)
+- [![LinkedIn](https://img.icons8.com/ios-filled/20/808080/linkedin.png) LinkedIn](https://www.linkedin.com/in/chengkuan/)   
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengkuan" target="_blank">Follow on LinkedIn</a>  [![Email](https://img.icons8.com/ios-filled/20/808080/new-post.png) Email](mailto:zhao0241@algonquinlive.com)     [![GitHub](https://img.icons8.com/ios-glyphs/20/808080/github.png) GitHub](https://github.com/chengkuanz)      [![Instagram](https://img.icons8.com/ios-filled/20/808080/instagram-new--v1.png) Instagram](https://www.instagram.com/chengkuan_/)
 
 ## Projects
 
