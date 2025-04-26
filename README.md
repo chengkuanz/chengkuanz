@@ -70,9 +70,9 @@
 ![Untitled](https://github.com/user-attachments/assets/f772b9a8-188d-43a3-9363-3d02935d3eed)
 
 
-- Developed an interactive Simon Game in C++ using [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
+- Developed an interactive Simon Game in **C++** using [SFML](https://www.sfml-dev.org/) and [TGUI](https://tgui.eu/) libraries, testing players' memory with color sequences.
 - Implemented game mechanics to generate and display random color sequences, enhancing gameplay difficulty with each level.
-- Designed a responsive GUI with TGUI for an engaging user experience.
+- Designed a responsive GUI with **TGUI** for an engaging user experience.
 - Integrated unique sound effects with each color button to aid in memorization.
 - Programmed logic for real-time user input validation and feedback.
 - Enabled restart functionality and performance tracking to improve player engagement and retention.
@@ -80,19 +80,19 @@
 ### **[Picross Game - Java Swing](https://github.com/chengkuanz/Picross)**  [(Demo video)](https://github.com/user-attachments/assets/47c2bc13-a52f-4b1c-b9af-04abbe18e851)
 <img width="744" alt="picross" src="https://github.com/user-attachments/assets/f19607c2-1b9b-4e98-8d4f-932b43d6b6d8" />
 
-- Developed a multiplayer Picross game in Java using the MVC architectural pattern.
-- Implemented real-time communication between server and clients with Java Sockets.
-- Designed an intuitive GUI using Swing for a responsive user experience.
+- Developed a multiplayer Picross game in **Java** using the **MVC architectural pattern**.
+- Implemented real-time communication between **server** and **clients** with **Java Sockets**.
+- Designed an intuitive GUI using **Swing** for a responsive user experience.
 - Created a modular structure (Model-View-Controller) for scalable and maintainable code.
-- Automated build processes with batch scripts for compiling, JAR creation, and Javadoc generation.
+- Automated build processes with **batch scripts** for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
 
 ### **[Complier Design](https://github.com/chengkuanz/complier-design)**
 
-- Developed front-end stage of a compiler in C, consisting of a Reader, Scanner, and Parser, for a custom programming language.
-- Implemented a Reader module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
-- Created a Scanner module to tokenize input data, incorporating finite state machines, token attributes, and error handling for lexical analysis.
-- Designed a Parser module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.      
+- Developed **front-end stage of a compiler** in **C**, consisting of a Reader, Scanner, and Parser, for a custom programming language.
+- Implemented a **Reader** module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
+- Created a **Scanner** module to tokenize input data, incorporating finite state machines, token attributes, and error handling for lexical analysis.
+- Designed a **Parser** module for syntactic analysis, using recursive descent parsing and Backus-Naur Form (BNF) to validate the grammar and structure of the source code.      
 
 
 ### **[Personal Website](https://chengkuanz.github.io/)**
@@ -116,13 +116,13 @@
 ![image](https://github.com/user-attachments/assets/2a85c4ba-2f4f-4703-85d0-aea56852fbbc)
 
 - School Project, MECH 4003 Mechanical Systems Design, September 2020 – December 2020
-- Performed preliminary design of a double-helical gearbox used to drive a generator
+- Performed preliminary design of a **double-helical gearbox** used to drive a generator
   (3600 RPM, 50 MW nominal power) using a gas turbine (8500 RPM). 
-- Created detailed CAD model for all components, including the pinion and gear, the
+- Created detailed **CAD model** for all components, including the pinion and gear, the
   shafts each gear mounted on, and the casing. 
-- Conducted comprehensive analysis of the gears' fatigue life, critical speed, and minimum allowable diameter for shafts.
-- Evaluated the life of bearings and selected appropriate fasteners, sealing methods, and assembly techniques.
-- Designed the lubrication circulation system and analyzed heat dissipation requirements.
+- Conducted comprehensive analysis of the gears' **fatigue life**, **critical speed**, and minimum allowable diameter for shafts.
+- Evaluated the **life** of bearings and selected appropriate fasteners, sealing methods, and assembly techniques.
+- Designed the **lubrication circulation system** and analyzed **heat dissipation** requirements.
 
 ### **Sterling Engine Design and Manufacture**
 - School Project, MECH 4705 CAD/CAM (Computer-Aided Design and Manufacturing), September 2020 – December 2020
