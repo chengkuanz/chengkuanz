@@ -6,6 +6,11 @@
 
 ## Projects
 
+### **[Raspberry Pi AirPlay Receiver with UxPlay)](https://github.com/chengkuanz/raspberry-pi-airplay-display)** 
+
+- Configure a Raspberry Pi 4 as an AirPlay receiver with UxPlay to mirror a MacBook, iPhone, or iPad to an HDMI display, acting as a wireless external monitor that starts automatically at boot.
+
+
 ### **[Digit Matching Game - Arduino](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf)
 <img width="911" alt="Screenshot 2025-03-05 at 5 46 57 PM" src="https://github.com/user-attachments/assets/e40f0ef7-bad3-41ac-86b3-0cc8d5209557" />
 
