@@ -6,7 +6,7 @@
 
 ## Projects
 
-### **[Raspberry Pi AirPlay Receiver with UxPlay)](https://github.com/chengkuanz/raspberry-pi-airplay-display)** 
+### **[Raspberry Pi AirPlay Receiver with UxPlay](https://github.com/chengkuanz/raspberry-pi-airplay-display)** 
 
 - Configure a Raspberry Pi 4 as an AirPlay receiver with UxPlay to mirror a MacBook, iPhone, or iPad to an HDMI display, acting as a wireless external monitor that starts automatically at boot.
 
