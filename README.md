@@ -6,6 +6,9 @@
 
 ## Projects
 
+### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)**
+
+- Classic browser-based Snake game built with vanilla JavaScript featuring grid movement, food spawning, score tracking, collision game-over, and restart/pause controls.
 ### **[Raspberry Pi AirPlay Receiver with UxPlay](https://github.com/chengkuanz/raspberry-pi-airplay-display)** 
 
 - Configure a Raspberry Pi 4 as an AirPlay receiver with UxPlay to mirror a MacBook, iPhone, or iPad to an HDMI display, acting as a wireless external monitor that starts automatically at boot.
@@ -146,8 +149,6 @@
 - Performed finite element analysis (FEA) on the landing gear assembly using ANSYS Workbench and Explicit Dynamics to evaluate its performance and ensure compliance with aviation standards.
 - Developed technical reports on the landing gear design and related analyses.
 - Delivered technical presentations detailing the design to over ten professional audiences.
-
-
 
 
 
