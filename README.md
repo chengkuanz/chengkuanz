@@ -6,13 +6,16 @@
 
 ## Projects
 
-### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)** [(Live demo)](https://chengkuanz.github.io/snake-grid-game/)
+### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)**
 
 - Classic browser-based Snake game built with vanilla JavaScript featuring grid movement, food spawning, score tracking, collision game-over, and restart/pause controls.
+<img width="1206" height="854" alt="screenshot" src="https://github.com/user-attachments/assets/0445595e-4ebc-453a-9e0a-c154136498bd" />
+
+
 ### **[Raspberry Pi AirPlay Receiver with UxPlay](https://github.com/chengkuanz/raspberry-pi-airplay-display)** 
 
 - Configure a Raspberry Pi 4 as an AirPlay receiver with UxPlay to mirror a MacBook, iPhone, or iPad to an HDMI display, acting as a wireless external monitor that starts automatically at boot.
-
+<img width="1470" height="635" alt="Screenshot 2026-03-08 at 5 08 34 PM copy 2" src="https://github.com/user-attachments/assets/3b24e35e-525b-42e0-9daf-de169c618afd" />
 
 ### **[Digit Matching Game - Arduino](https://github.com/chengkuanz/Arduino-Digit-Match-Game)**  [(Demo video)](https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf)
 <img width="911" alt="Screenshot 2025-03-05 at 5 46 57 PM" src="https://github.com/user-attachments/assets/e40f0ef7-bad3-41ac-86b3-0cc8d5209557" />
