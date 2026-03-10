@@ -9,7 +9,8 @@
 ### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)**
 
 - Classic browser-based Snake game built with vanilla JavaScript featuring grid movement, food spawning, score tracking, collision game-over, and restart/pause controls.
-<img width="1206" height="854" alt="screenshot" src="https://github.com/user-attachments/assets/0445595e-4ebc-453a-9e0a-c154136498bd" />
+<img width="1217" height="712" alt="Screenshot 2026-03-10 at 6 36 16 PM" src="https://github.com/user-attachments/assets/a52150ff-7602-4d36-bce8-c9f41734e67c" />
+
 
 
 ### **[Raspberry Pi AirPlay Receiver with UxPlay](https://github.com/chengkuanz/raspberry-pi-airplay-display)** 
