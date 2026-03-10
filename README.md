@@ -45,7 +45,7 @@
 
 
 
-### **[Motronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)** [(Demo video)](https://github.com/user-attachments/assets/d40793ac-ab0c-4f8b-8dad-7abf7b41f732)
+### **[Metronome Resource Management System - QNX Neutrino](https://github.com/chengkuanz/Metronome-Resource-Manager-QNX)** [(Demo video)](https://github.com/user-attachments/assets/d40793ac-ab0c-4f8b-8dad-7abf7b41f732)
 <img width="1299" alt="Screenshot 2025-03-05 at 6 01 03 PM" src="https://github.com/user-attachments/assets/5e807ea2-121b-4fc1-95fc-9763a1a3062d" />
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
@@ -58,7 +58,7 @@
 <img width="1432" alt="Screenshot 2025-03-05 at 6 03 33 PM" src="https://github.com/user-attachments/assets/a84387b5-30f6-4e12-8852-52ef54256de3" />
 
 - School Project, CST8244 - Real-Time Programming, May 2024 - August 2024
-- Developed a simulation of a building entry controll system in **C** using the **QNX Neutrino RTOS**, implementing concurrent processing and synchronization through **semaphores** and **message passing**.
+- Developed a simulation of a building entry control system in **C** using the **QNX Neutrino RTOS**, implementing concurrent processing and synchronization through **semaphores** and **message passing**.
 - Designed a robust state machine to manage secure, controlled access through a two-door entry system, integrating components like card scanners, weight scales, and guard-operated manual locks.
 - Created modular programs for distinct functionalities: input handling (des_inputs), state management (des_controller), and real-time system status updates (des_display).
 - Utilized **QNX-specific Inter-Process Communication (IPC)** mechanisms including **MsgSend**, **MsgReceive**, and **MsgReply**, along with **shared memory** and **channels**, ensuring reliable synchronization and responsive communication between processes.
@@ -73,7 +73,7 @@
 - Implemented entity models and database contexts using **Entity Framework Core**, supporting **database migrations** and ensuring seamless updates to the database schema.
 - Created **custom controllers** to handle HTTP requests, ensuring proper routing and execution of business logic for different application features.
 - Designed and integrated views using **Razor Page** syntax to provide dynamic, user-friendly web pages, ensuring a responsive and interactive user experience.
-- Integrated a user-friendly interface and sorting logic to diaplay and manage fan subscriptions and sport club data, allowing users to create, view, edit, and delete clubs, as well as upload, view, and delete related news items and images.
+- Integrated a user-friendly interface and sorting logic to display and manage fan subscriptions and sport club data, allowing users to create, view, edit, and delete clubs, as well as upload, view, and delete related news items and images.
 - Deployed the application to **Azure Web App**, used **Azure Blob Storage** for managing and storing media files, and **Azure SQL Database** for data storage.
 
 
@@ -99,7 +99,7 @@
 - Automated build processes with **batch scripts** for compiling, JAR creation, and Javadoc generation.
 - Enabled multiplayer interactions within a local area network, enhancing gaming experience and collaboration.
 
-### **[Complier Design](https://github.com/chengkuanz/complier-design)**
+### **[Compiler Design](https://github.com/chengkuanz/complier-design)**
 
 - Developed **front-end stage of a compiler** in **C**, consisting of a Reader, Scanner, and Parser, for a custom programming language.
 - Implemented a **Reader** module to manage dynamic memory for reading and storing input data, employing techniques like buffer handling and dynamic allocation.
@@ -153,7 +153,6 @@
 - Performed finite element analysis (FEA) on the landing gear assembly using ANSYS Workbench and Explicit Dynamics to evaluate its performance and ensure compliance with aviation standards.
 - Developed technical reports on the landing gear design and related analyses.
 - Delivered technical presentations detailing the design to over ten professional audiences.
-
 
 
 
