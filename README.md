@@ -4,10 +4,11 @@
 
 ## Projects
 
-### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)**
+### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)**  [(Live demo)](https://chengkuanz.github.io/snake-grid-game/)
 
 - Classic browser-based Snake game built with vanilla JavaScript featuring grid movement, food spawning, score tracking, collision game-over, and restart/pause controls.
-<img width="1113" height="605" alt="Screenshot 2026-03-10 at 6 36 16 PM" src="https://github.com/user-attachments/assets/f29f62ff-7c80-4cc4-979a-fd728d2b6d20" />
+<img width="1366" height="780" alt="Screenshot 2026-03-10 at 7 24 12 PM copy" src="https://github.com/user-attachments/assets/765351f1-9130-470c-aa43-9c3e6a5a117e" />
+
 
 
 
