@@ -4,6 +4,11 @@
 
 ## Projects
 
+### **[GPS 1-to-Target Speed Timer](https://github.com/chengkuanz/gps-speed-timer)**  [(Demo video)](https://github.com/user-attachments/assets/f5da079f-45f5-49f8-aa21-9851be51bdff)
+
+<img width="3580" height="1101" alt="IMG_8900" src="https://github.com/user-attachments/assets/f1b7f618-7d0e-4900-a160-f87e988f871b" />
+
+
 ### **[Snake Grid Game](https://github.com/chengkuanz/snake-grid-game/tree/main)**  [(Live demo)](https://chengkuanz.github.io/snake-grid-game/)
 
 - Classic browser-based Snake game built with vanilla JavaScript featuring grid movement, food spawning, score tracking, collision game-over, and restart/pause controls.
